@@ -1,0 +1,8 @@
+{
+  "name": "Divisa Tiempo Real ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a8270d2b"
+}
